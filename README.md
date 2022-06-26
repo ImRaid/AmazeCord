@@ -10,4 +10,4 @@ AmazeCord is a clear Discord modification, which adds new amazing functions.
 
 ---
 
-Install: 
+# Install: 
