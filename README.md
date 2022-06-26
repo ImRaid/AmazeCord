@@ -6,4 +6,8 @@
         <img src="https://img.shields.io/badge/Our%20OPENSEA-DONATE-%2300457C.svg?logo=opensea&labelColor=0c0d10&color=green&style=for-the-badge" alt="opensea-badge">
   </a>
 
+AmazeCord is a clear Discord modification, which adds new amazing functions.
 
+---
+
+Install: 
